@@ -1,0 +1,1889 @@
+ <div class="center">
+<div class="section akcni-nabidka">
+                    <h2 class="section-header red-gradient">AKCE</h2>
+                    <div class="bx-wrapper" style="max-width: 100%; margin: 0px auto;">
+                        <div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 720px;">
+                            <div class="slides js-action-slider" style="width: 815%; position: relative; transition-duration: 0.5s; transform: translate3d(-2006px, 0px, 0px);">
+                                <div class="slide bx-clone" style="float: left; list-style: outside none none; position: relative; width: 1000px;">
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/sissi-bay-spa/?TermID=195213&amp;DateFrom=2017-06-01&amp;DateTo=2017-06-04">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Sissi Bay &amp; Spa</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;9&nbsp;750&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_24509" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_034.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/sivila/?TermID=194114&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Sivila</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;090&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_21597" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_006.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/studia-odysseas/?TermID=182167&amp;DateFrom=2017-06-03&amp;DateTo=2017-06-10">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Studia Odysseas</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;8&nbsp;990&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_23464" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_029.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/summertime-village/?TermID=180297&amp;DateFrom=2017-09-23&amp;DateTo=2017-09-30">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Summertime Village</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;13&nbsp;790&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_14506" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_014.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/sun-beach-resort/?TermID=194148&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Sun Beach Resort</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;750&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_21919" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_019.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/the-residence/?TermID=194134&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>The Residence</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;150&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_21967" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_041.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/venezia-resort/?TermID=194101&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Venezia Resort</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;890&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_22009" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_052.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/zakantha-beach/?TermID=191886&amp;DateFrom=2017-09-12&amp;DateTo=2017-09-19">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Zakantha Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;13&nbsp;590&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_23720" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_027.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/zante-village/?TermID=192416&amp;DateFrom=2017-06-06&amp;DateTo=2017-06-13">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Zante Village</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;190&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_5808" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_045.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+
+                                <div class="slide" style="float: left; list-style: outside none none; position: relative; width: 1000px;">
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/alkyon/?TermID=181420&amp;DateFrom=2017-06-03&amp;DateTo=2017-06-10">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Alkyon</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;590&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_28215" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_053.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/anavadia/?TermID=194152&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Anavadia</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;090&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_26662" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_021.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/anika-studios/?TermID=194124&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Anika Studios</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;9&nbsp;690&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_17329" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_004.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/anita-apartments/?TermID=194125&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Anita Apartments</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;9&nbsp;850&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_17348" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_032.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/apraos-bay/?TermID=181947&amp;DateFrom=2017-06-03&amp;DateTo=2017-06-10">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Apraos Bay</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;350&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_28193" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_002.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/aquis-pelekas-beach/?TermID=186552&amp;DateFrom=2017-09-21&amp;DateTo=2017-09-28">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Aquis Pelekas Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;17&nbsp;950&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_14863" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_030.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/atrium-platinum-luxury-resort-hotel-spa/?TermID=194133&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Atrium Platinum Luxury Resort Hotel &amp; Spa</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;14&nbsp;590&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_17433" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_049.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/belair-beach/?TermID=194185&amp;DateFrom=2017-10-07&amp;DateTo=2017-10-14">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Belair Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;850&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19393" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_013.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/blue-bay-beach-hotel/?TermID=194246&amp;DateFrom=2017-10-07&amp;DateTo=2017-10-14">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Blue Bay Beach Hotel</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;13&nbsp;550&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19414" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_050.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+
+                                <div class="slide" style="float: left; list-style: outside none none; position: relative; width: 1000px;">
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/blue-horizon/?TermID=194118&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Blue Horizon</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;750&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19441" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_005.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/corfu-palace/?TermID=181250&amp;DateFrom=2017-06-03&amp;DateTo=2017-06-10">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Corfu Palace</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;21&nbsp;690&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_15151" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_046.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/costa-lindia-beach-resort/?TermID=194100&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Costa Lindia Beach Resort</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;990&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19522" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_033.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/divani-corfu-palace/?TermID=181114&amp;DateFrom=2017-06-03&amp;DateTo=2017-06-10">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Divani Corfu Palace</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;17&nbsp;390&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_15370" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_007.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/eagles-nest/?TermID=194144&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Eagles Nest</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;890&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19588" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_011.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/electra-palace/?TermID=194254&amp;DateFrom=2017-10-07&amp;DateTo=2017-10-14">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Electra Palace</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;14&nbsp;450&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19620" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_012.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/fantasy/?TermID=194127&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Fantasy</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;250&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19697" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_023.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/gloria-maris/?TermID=182831&amp;DateFrom=2017-09-23&amp;DateTo=2017-09-30">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Gloria Maris</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;13&nbsp;350&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_22849" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_020.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/golden-sands/?TermID=179481&amp;DateFrom=2017-09-23&amp;DateTo=2017-09-30">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Golden Sands</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;990&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_26326" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_008.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+
+                                <div class="slide" style="float: left; list-style: outside none none; position: relative; width: 1000px;">
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/golf-view/?TermID=194119&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Golf View</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;150&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19818" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_051.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/hotel-electra/?TermID=185012&amp;DateFrom=2017-06-04&amp;DateTo=2017-06-11">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Hotel Electra</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;990&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_26727" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_044.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/kalithea-sun/?TermID=194059&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Kalithea Sun</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;390&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19951" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_040.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/kamari-beach/?TermID=194033&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Kamari Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;650&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19961" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_010.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/kontokali-bay-resort-spa/?TermID=181317&amp;DateFrom=2017-09-23&amp;DateTo=2017-09-30">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Kontokali Bay Resort &amp; Spa</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;18&nbsp;850&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_16624" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_031.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/lardos-bay/?TermID=194190&amp;DateFrom=2017-10-07&amp;DateTo=2017-10-14">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Lardos Bay</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;9&nbsp;890&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20099" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_043.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/lindian-village/?TermID=194305&amp;DateFrom=2017-10-07&amp;DateTo=2017-10-14">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Lindian Village</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;17&nbsp;250&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20136" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_028.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/lindos-sun/?TermID=194071&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Lindos Sun</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;290&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20193" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_017.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/lindos-white/?TermID=194137&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Lindos White</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;13&nbsp;550&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20222" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_003.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+
+                                <div class="slide" style="float: left; list-style: outside none none; position: relative; width: 1000px;">
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/lutania-beach/?TermID=194092&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Lutania Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;290&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20293" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_015.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/magda-hotel/?TermID=195203&amp;DateFrom=2017-06-01&amp;DateTo=2017-06-04">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Magda Hotel</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;13&nbsp;050&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_22076" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_009.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/malia-bay/?TermID=195396&amp;DateFrom=2017-06-01&amp;DateTo=2017-06-04">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Malia Bay</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;690&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_18818" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_047.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/marathon/?TermID=193998&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Marathon</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;590&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20420" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_036.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/marianna-palace/?TermID=194074&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Marianna Palace</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;950&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20488" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_048.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/marilena/?TermID=195293&amp;DateFrom=2017-06-01&amp;DateTo=2017-06-04">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Marilena</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;890&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_18904" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_016.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/maritime/?TermID=194104&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Maritime</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;150&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20508" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_037.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/maritimo-beach/?TermID=186057&amp;DateFrom=2017-05-21&amp;DateTo=2017-05-28">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Maritimo Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;850&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_18995" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_018.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/mikes-house/?TermID=194922&amp;DateFrom=2017-05-24&amp;DateTo=2017-05-31">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Mikes House</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;9&nbsp;490&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20551" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_025.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+
+                                <div class="slide" style="float: left; list-style: outside none none; position: relative; width: 1000px;">
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/mitsis-laguna-resort-spa/?TermID=195131&amp;DateFrom=2017-06-01&amp;DateTo=2017-06-04">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Mitsis Laguna Resort &amp; Spa</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;15&nbsp;350&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19147" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_038.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/mitsis-lindos-memories/?TermID=194055&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Mitsis Lindos Memories</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;17&nbsp;690&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20662" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_042.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/mitsis-rodos-maris/?TermID=194048&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Mitsis Rodos Maris</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;13&nbsp;890&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20698" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_024.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/olive-garden/?TermID=194099&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Olive Garden</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;450&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_20834" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_035.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/olympia-sun/?TermID=194111&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Olympia Sun</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;690&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_8025" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_054.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/planos-beach/?TermID=183725&amp;DateFrom=2017-06-03&amp;DateTo=2017-06-10">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Planos Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;990&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_23398" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_039.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/pylea-beach-hotel/?TermID=194927&amp;DateFrom=2017-05-24&amp;DateTo=2017-05-31">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Pylea Beach Hotel</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;190&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_21185" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/rodos-princess-beach/?TermID=194154&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Rodos Princess Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;14&nbsp;750&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_25725" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_026.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/sheraton-rhodes-resort/?TermID=194067&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Sheraton Rhodes Resort</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;14&nbsp;290&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_21490" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_022.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+
+                                <div class="slide" style="float: left; list-style: outside none none; position: relative; width: 1000px;">
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/sissi-bay-spa/?TermID=195213&amp;DateFrom=2017-06-01&amp;DateTo=2017-06-04">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Sissi Bay &amp; Spa</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;9&nbsp;750&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_24509" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_034.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/sivila/?TermID=194114&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Sivila</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;090&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_21597" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_006.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/studia-odysseas/?TermID=182167&amp;DateFrom=2017-06-03&amp;DateTo=2017-06-10">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Studia Odysseas</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;8&nbsp;990&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_23464" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_029.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/summertime-village/?TermID=180297&amp;DateFrom=2017-09-23&amp;DateTo=2017-09-30">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Summertime Village</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;13&nbsp;790&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_14506" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_014.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/sun-beach-resort/?TermID=194148&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Sun Beach Resort</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;750&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_21919" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_019.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/the-residence/?TermID=194134&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>The Residence</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;150&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_21967" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_041.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/venezia-resort/?TermID=194101&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Venezia Resort</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;10&nbsp;890&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_22009" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_052.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/zakantha-beach/?TermID=191886&amp;DateFrom=2017-09-12&amp;DateTo=2017-09-19">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Zakantha Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;13&nbsp;590&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_23720" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_027.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/zante-village/?TermID=192416&amp;DateFrom=2017-06-06&amp;DateTo=2017-06-13">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Zante Village</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;190&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_5808" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_045.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+
+                                <div class="slide bx-clone" style="float: left; list-style: outside none none; position: relative; width: 1000px;">
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/alkyon/?TermID=181420&amp;DateFrom=2017-06-03&amp;DateTo=2017-06-10">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Alkyon</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;590&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_28215" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_053.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/anavadia/?TermID=194152&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Anavadia</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;12&nbsp;090&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_26662" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_021.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/anika-studios/?TermID=194124&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Anika Studios</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;9&nbsp;690&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_17329" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_004.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/anita-apartments/?TermID=194125&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Anita Apartments</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;9&nbsp;850&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_17348" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_032.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/apraos-bay/?TermID=181947&amp;DateFrom=2017-06-03&amp;DateTo=2017-06-10">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Apraos Bay</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;350&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_28193" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_002.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/aquis-pelekas-beach/?TermID=186552&amp;DateFrom=2017-09-21&amp;DateTo=2017-09-28">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Aquis Pelekas Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;17&nbsp;950&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_14863" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_030.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                    <div class="slide-row row">
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/atrium-platinum-luxury-resort-hotel-spa/?TermID=194133&amp;DateFrom=2017-09-28&amp;DateTo=2017-10-01">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Atrium Platinum Luxury Resort Hotel &amp; Spa</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;14&nbsp;590&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_17433" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_049.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/belair-beach/?TermID=194185&amp;DateFrom=2017-10-07&amp;DateTo=2017-10-14">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Belair Beach</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;11&nbsp;850&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19393" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_013.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+
+                                        <div class="col infobox">
+                                            <a href="http://www.electratours.cz/hotel/blue-bay-beach-hotel/?TermID=194246&amp;DateFrom=2017-10-07&amp;DateTo=2017-10-14">
+
+                                                <div class="info-box">
+                                                    <p class="produkt"><strong>Blue Bay Beach Hotel</strong></p>
+                                                    <p class="cena">
+                                                        &nbsp;13&nbsp;550&nbsp;Kč
+                                                    </p>
+                                                </div>
+                                                <div>
+                                                    <div class="img img_0">
+                                                        <img class="image_19414" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_050.jpg" alt="" title="" height="235" width="335">
+                                                    </div>
+                                                </div>
+                                                <div class="clr clear_0"></div>
+
+
+                                            </a>
+                                        </div>
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bx-controls bx-has-controls-direction">
+                            <div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+        </main>
+
+
+        <footer>
+            <div class="footer-top">
+                <div class="center">
+                    <div class="col-l">
+                        <p class="ttl">Email Newsletter</p>
+                        <p>Přihlašte se k odběru newsletteru a získejte akční nabídky jako první.</p>
+
+                        <div class="subscribe-block">
+
+
+                            <span class="input">
+            	<input name="ctl71$ctrl" id="ctl71_ctrl" type="text"><span id="ctl71_ctl00" style="display:none;">Povinná položka!</span><span id="ctl71_ctl01" class="validator" style="display:none;"></span>
+                            </span>
+                            <span class="magicWrapper" data-class="btn" data-elements="input">
+              <input name="ctl72" value="Odeslat" onclick='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl72", "", true, "EmailRegistrationForm", "", false, false))' class="btn" type="submit">
+            </span>
+
+
+
+                            <script>
+                                var emailField = $(".subscribe-block input[type=text]");
+                                var emailRegisterButton = $(".subscribe-block input[type=submit]");
+                                emailRegisterButton.on("click", function(e) {
+
+                                    if ($.trim(emailField.val()) === "" || $.trim(emailField.val()).indexOf("@") === -1) {
+                                        e.preventDefault();
+                                        alert("Prosím vyplňte váš email!");
+                                    }
+
+                                });
+
+                            </script>
+
+                        </div>
+                    </div>
+                    <div class="col-c">
+                        <p class="ttl">Spojte se s námi</p>
+                        <p>Spojte se s námi, účastněte se soutěží nebo jen načerpejte inspiraci pro vaši dovolenou.</p>
+
+                        <ul class="social">
+                            <li class="twitter">
+                                <a href="https://twitter.com/ElectraTours" target="_blank"></a>
+                            </li>
+                            <li class="fb">
+                                <a href="https://www.facebook.com/electratours" target="_blank"></a>
+                            </li>
+                            <li class="google-plus">
+                                <a href="https://plus.google.com/108131121872492635423/posts" target="_blank"></a>
+                            </li>
+                            <li class="youtube">
+                                <a href="https://www.youtube.com/" target="_blank"></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-r">
+                        <img src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/footer-img.png">
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bot">
+                <div class="center">
+                    <p>1990 - 2017 © Copyright ElectraTours. Všechna práva vyhrazena. Realizace <a href="http://www.magicware.cz/" style="color: #72C3EA; text-decoration: none;">MagicWare s.r.o.</a></p>
+                </div>
+            </div>
+        </footer>
+        </div>
+
+
+        <script type="text/javascript">
+            //<![CDATA[
+            var Page_Validators = new Array(document.getElementById("ctl39_ctl01"), document.getElementById("ctl41_ctl01"), document.getElementById("ctl71_ctl00"), document.getElementById("ctl71_ctl01"));
+            //]]>
+
+        </script>
+
+        <script type="text/javascript">
+            //<![CDATA[
+            var ctl39_ctl01 = document.all ? document.all["ctl39_ctl01"] : document.getElementById("ctl39_ctl01");
+            ctl39_ctl01.format = "%d.%m.%yyyy";
+            ctl39_ctl01.always2000 = "true";
+            ctl39_ctl01.evaluationfunction = "DateTimeValidatorEvaluateIsValid";
+            ctl39_ctl01.controltovalidate = "ctl39_DateBox";
+            ctl39_ctl01.display = "Dynamic";
+            ctl39_ctl01.enabled = "False";
+            var ctl41_ctl01 = document.all ? document.all["ctl41_ctl01"] : document.getElementById("ctl41_ctl01");
+            ctl41_ctl01.format = "%d.%m.%yyyy";
+            ctl41_ctl01.always2000 = "true";
+            ctl41_ctl01.evaluationfunction = "DateTimeValidatorEvaluateIsValid";
+            ctl41_ctl01.controltovalidate = "ctl41_DateBox";
+            ctl41_ctl01.display = "Dynamic";
+            ctl41_ctl01.enabled = "False";
+            var ctl71_ctl00 = document.all ? document.all["ctl71_ctl00"] : document.getElementById("ctl71_ctl00");
+            ctl71_ctl00.controltovalidate = "ctl71_ctrl";
+            ctl71_ctl00.errormessage = "Povinná položka!";
+            ctl71_ctl00.display = "Dynamic";
+            ctl71_ctl00.validationGroup = "EmailRegistrationForm";
+            ctl71_ctl00.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+            ctl71_ctl00.initialvalue = "";
+            var ctl71_ctl01 = document.all ? document.all["ctl71_ctl01"] : document.getElementById("ctl71_ctl01");
+            ctl71_ctl01.controltovalidate = "ctl71_ctrl";
+            ctl71_ctl01.display = "Dynamic";
+            ctl71_ctl01.validationGroup = "EmailRegistrationForm";
+            ctl71_ctl01.evaluationfunction = "CustomValidatorEvaluateIsValid";
+            //]]>
+
+        </script>
+
+
+        <script type="text/javascript">
+            //<![CDATA[
+
+            var Page_ValidationActive = false;
+            if (typeof(ValidatorOnLoad) == "function") {
+                ValidatorOnLoad();
+            }
+
+            function ValidatorOnSubmit() {
+                if (Page_ValidationActive) {
+                    return ValidatorCommonOnSubmit();
+                } else {
+                    return true;
+                }
+            }
+
+            document.getElementById('ctl39_ctl01').dispose = function() {
+                Array.remove(Page_Validators, document.getElementById('ctl39_ctl01'));
+            }
+
+            document.getElementById('ctl41_ctl01').dispose = function() {
+                Array.remove(Page_Validators, document.getElementById('ctl41_ctl01'));
+            }
+
+            document.getElementById('ctl71_ctl00').dispose = function() {
+                Array.remove(Page_Validators, document.getElementById('ctl71_ctl00'));
+            }
+
+            document.getElementById('ctl71_ctl01').dispose = function() {
+                    Array.remove(Page_Validators, document.getElementById('ctl71_ctl01'));
+                }
+                //]]>
+
+        </script>
+    </form>
+
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_013.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_004.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_007.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_009.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_008.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_005.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_012.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_010.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_006.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_003.js"></script>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_002.js"></script>
+    <div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div>
+    <script type="text/javascript" src="CK%20ElectraTours%20_%20Kr%C3%A1sn%C3%A1%20dovolen%C3%A1%20a%20z%C3%A1jezdy_files/FileHandler_002.ashx"></script>

@@ -1,0 +1,324 @@
+ <!----------------------------- HEADER ---------------------------------------------->
+
+        <main class="">
+            <!--- Search field ---->
+            <div id="ctl26" class="container-fluid" style="padding:0">
+                <div class="search-tour search-tour--home container-fluid">
+                    <div class="center">
+
+                        <div class="row season">
+                            <div class="first-col col">
+                                <p class="param">
+                                    Sezóna:
+                                </p>
+                                <div class="search-form-control-ctrl0">
+                                    <ul id="ctl29">
+                                        <li>
+                                            <div class="iradio_minimal checked" style="position: relative;"><input id="ctl29_0" name="ctl29" value="summer" checked="checked" style="position: absolute; opacity: 0;" type="radio"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 0px none; opacity: 0;"></ins></div><label for="ctl29_0" class="">letní</label></li>
+                                        <li>
+                                            <div class="iradio_minimal" style="position: relative;"><input id="ctl29_1" name="ctl29" value="winter" style="position: absolute; opacity: 0;" type="radio"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 0px none; opacity: 0;"></ins></div><label for="ctl29_1" class="">zimní</label></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="last-col hotel">
+                                <span class="magicWrapper u-p0 u-mr5 u-mt17" data-class="hotel" data-elements="input[type='text']">
+            <span class="removeNBSP u-p0">
+              <div class="search-form-control-ctrl1"><input name="ctl31$ctl00" placeholder="Hotel" class="hotel" type="text"></div>
+              
+            </span>
+                                </span>
+                            </div>
+
+                        </div>
+
+                        <div class="row">
+                            <div class="search-form-control-ctrl2"><input name="ctl34" class="search-form-control-selectedfield " value="108" type="hidden">
+                                <div class="first-col icon country">
+                                    <div class="search-form-control-treeselect0"><select style="display: none;"><option value="">Země</option><option value="108" selected="selected">Řecko</option><option value="307">Španělsko</option></select><span id="" class="selectboxit-container selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns=""><span id="" class="selectboxit  selectboxit-enabled selectboxit-btn" name="" tabindex="0" unselectable="on" style="width: 558px;"><span class="selectboxit-option-icon-container"><i id="" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on" style=""></i></span><span id="" class="selectboxit-text" unselectable="on" data-val="108" style="max-width: 66px;" aria-live="polite">Řecko</span><span id="" class="selectboxit-arrow-container" unselectable="on"><i id="" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span>
+                                        <ul class="selectboxit-options selectboxit-list" tabindex="-1" style="min-width: 310px;" role="listbox" aria-hidden="true">
+                                            <li data-id="0" data-val="" data-disabled="false" class="selectboxit-option  selectboxit-option-first" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Země</a></li>
+                                            <li data-id="1" data-val="108" data-disabled="false" class="selectboxit-option selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Řecko</a></li>
+                                            <li data-id="2" data-val="307" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Španělsko</a></li>
+                                        </ul>
+                                        </span>
+                                    </div>
+                                </div>
+
+                                <div class="col icon place_to">
+                                    <div class="search-form-control-treeselect1"><select style="display: none;"><option value="" selected="selected">Destinace</option><option value="116">Chalkidiki</option><option value="124">Korfu</option><option value="118">Kreta</option><option value="126">Rhodos</option><option value="114">Zakynthos</option></select><span id="" class="selectboxit-container selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns=""><span id="" class="selectboxit  selectboxit-enabled selectboxit-btn" name="" tabindex="0" unselectable="on" style="width: 558px;"><span class="selectboxit-option-icon-container"><i id="" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on" style=""></i></span><span id="" class="selectboxit-text" unselectable="on" data-val="" style="max-width: 66px;" aria-live="polite">Destinace</span><span id="" class="selectboxit-arrow-container" unselectable="on"><i id="" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span>
+                                        <ul class="selectboxit-options selectboxit-list" tabindex="-1" style="min-width: 310px;" role="listbox" aria-hidden="true">
+                                            <li data-id="0" data-val="" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Destinace</a></li>
+                                            <li data-id="1" data-val="116" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Chalkidiki</a></li>
+                                            <li data-id="2" data-val="124" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Korfu</a></li>
+                                            <li data-id="3" data-val="118" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Kreta</a></li>
+                                            <li data-id="4" data-val="126" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Rhodos</a></li>
+                                            <li data-id="5" data-val="114" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Zakynthos</a></li>
+                                        </ul>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <script>
+                                $(document).ready(function() {
+                                    $('.search-tour').on('mwCascadingSelectControl-rebuilt', function(e) {
+                                        var destinationSelectBox = $(".search-tour .place_to select").data("selectBox-selectBoxIt");
+                                        destinationSelectBox.refresh();
+                                    });
+                                });
+
+                            </script>
+
+                            <span class="magicWrapper sf-winter-disabled col icon place_from">
+          <div class="search-form-control-ctrl3"><select name="ctl37" style="display: none;">
+	<option value="" selected="selected">Odlet z</option>
+	<option value="22">Brno</option>
+	<option value="1">Praha, Václav Havel</option>
+
+</select><span id="" class="selectboxit-container selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns=""><span id="" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl37" tabindex="0" unselectable="on" style="width: 558px;"><span class="selectboxit-option-icon-container"><i id="" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on" style=""></i></span><span id="" class="selectboxit-text" unselectable="on" data-val="" style="max-width: 66px;" aria-live="polite">Odlet z</span><span id="" class="selectboxit-arrow-container" unselectable="on"><i id="" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span>
+                            <ul class="selectboxit-options selectboxit-list" tabindex="-1" style="min-width: 310px;" role="listbox" aria-hidden="true">
+                                <li data-id="0" data-val="" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Odlet z</a></li>
+                                <li data-id="1" data-val="22" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Brno</a></li>
+                                <li data-id="2" data-val="1" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Praha, Václav Havel</a></li>
+                            </ul>
+                            </span>
+                        </div>
+                        </span>
+
+                    </div>
+
+                    <div class="row">
+                        <div class="first-col col date">
+                            <span class="magicWrapper" data-class="datepicker date_from" data-elements="input[type='text']">
+            <span class="removeNBSP">
+              <div class="search-form-control-ctrl4"><input name="ctl39$DateBox" value="Od:" maxlength="10" id="ctl39_DateBox" onkeypress="MagicWareDateTimeTextBox_KeyPress(true,false,false,event);" style="text-align:right;" class="datepicker date_from hasDatepicker" type="text"><span id="ctl39_ctl01" class="validator" style="display:none;">Zadejte platné datum.</span></div>
+                        </span>
+                        </span>
+                    </div>
+                    <div class="col date">
+                        <span class="magicWrapper" data-class="datepicker date_to" data-elements="input[type='text']">
+            <span class="removeNBSP">
+              <div class="search-form-control-ctrl5"><input name="ctl41$DateBox" value="Do:" maxlength="10" id="ctl41_DateBox" onkeypress="MagicWareDateTimeTextBox_KeyPress(true,false,false,event);" style="text-align:right;" class="datepicker date_to hasDatepicker" type="text"><span id="ctl41_ctl01" class="validator" style="display:none;">Zadejte platné datum.</span></div>
+                    </span>
+                    </span>
+                </div>
+                <div class="col icon nights">
+                    <div class="search-form-control-ctrl6"><select name="ctl43" style="display: none;">
+	<option value="" selected="selected">Nocí</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+
+</select><span id="" class="selectboxit-container selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns=""><span id="" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl43" tabindex="0" unselectable="on" style="width: 558px;"><span class="selectboxit-option-icon-container"><i id="" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on" style=""></i></span><span id="" class="selectboxit-text" unselectable="on" data-val="" style="max-width: 66px;" aria-live="polite">Nocí</span><span id="" class="selectboxit-arrow-container" unselectable="on"><i id="" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span>
+                        <ul class="selectboxit-options selectboxit-list" tabindex="-1" style="min-width: 310px;" role="listbox" aria-hidden="true">
+                            <li data-id="0" data-val="" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Nocí</a></li>
+                            <li data-id="1" data-val="3" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>3</a></li>
+                            <li data-id="2" data-val="4" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>4</a></li>
+                            <li data-id="3" data-val="5" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>5</a></li>
+                            <li data-id="4" data-val="6" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>6</a></li>
+                            <li data-id="5" data-val="7" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>7</a></li>
+                            <li data-id="6" data-val="8" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>8</a></li>
+                            <li data-id="7" data-val="9" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>9</a></li>
+                            <li data-id="8" data-val="10" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>10</a></li>
+                            <li data-id="9" data-val="11" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>11</a></li>
+                            <li data-id="10" data-val="12" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>12</a></li>
+                            <li data-id="11" data-val="13" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>13</a></li>
+                            <li data-id="12" data-val="14" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>14</a></li>
+                        </ul>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row people">
+                <div class="first-col col icon adult">
+                    <div class="search-form-control-ctrl7"><select name="ctl45" style="display: none;">
+	<option value="" selected="selected">Dospělých</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+
+</select><span id="" class="selectboxit-container selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns=""><span id="" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl45" tabindex="0" unselectable="on" style="width: 558px;"><span class="selectboxit-option-icon-container"><i id="" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on" style=""></i></span><span id="" class="selectboxit-text" unselectable="on" data-val="" style="max-width: 66px;" aria-live="polite">Dospělých</span><span id="" class="selectboxit-arrow-container" unselectable="on"><i id="" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span>
+                        <ul class="selectboxit-options selectboxit-list" tabindex="-1" style="min-width: 310px;" role="listbox" aria-hidden="true">
+                            <li data-id="0" data-val="" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Dospělých</a></li>
+                            <li data-id="1" data-val="1" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>1</a></li>
+                            <li data-id="2" data-val="2" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>2</a></li>
+                            <li data-id="3" data-val="3" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>3</a></li>
+                            <li data-id="4" data-val="4" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>4</a></li>
+                        </ul>
+                        </span>
+                    </div>
+                </div>
+                <div class="col icon children">
+                    <div class="search-form-control-ctrl8"><select name="ctl47" style="display: none;">
+	<option value="" selected="selected">Dětí</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+
+</select><span id="" class="selectboxit-container selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns=""><span id="" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl47" tabindex="0" unselectable="on" style="width: 558px;"><span class="selectboxit-option-icon-container"><i id="" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on" style=""></i></span><span id="" class="selectboxit-text" unselectable="on" data-val="" style="max-width: 66px;" aria-live="polite">Dětí</span><span id="" class="selectboxit-arrow-container" unselectable="on"><i id="" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span>
+                        <ul class="selectboxit-options selectboxit-list" tabindex="-1" style="min-width: 310px;" role="listbox" aria-hidden="true">
+                            <li data-id="0" data-val="" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Dětí</a></li>
+                            <li data-id="1" data-val="1" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>1</a></li>
+                            <li data-id="2" data-val="2" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>2</a></li>
+                            <li data-id="3" data-val="3" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>3</a></li>
+                        </ul>
+                        </span>
+                    </div>
+                </div>
+                <div class="col icon infant">
+                    <div class="search-form-control-ctrl9"><select name="ctl49" style="display: none;">
+	<option value="" selected="selected">Infant</option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+
+</select><span id="" class="selectboxit-container selectboxit-container" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-expanded="false" aria-owns=""><span id="" class="selectboxit  selectboxit-enabled selectboxit-btn" name="ctl49" tabindex="0" unselectable="on" style="width: 558px;"><span class="selectboxit-option-icon-container"><i id="" class="selectboxit-default-icon selectboxit-option-icon selectboxit-container" unselectable="on" style=""></i></span><span id="" class="selectboxit-text" unselectable="on" data-val="" style="max-width: 66px;" aria-live="polite">Infant</span><span id="" class="selectboxit-arrow-container" unselectable="on"><i id="" class="selectboxit-arrow selectboxit-default-arrow" unselectable="on"></i></span></span>
+                        <ul class="selectboxit-options selectboxit-list" tabindex="-1" style="min-width: 310px;" role="listbox" aria-hidden="true">
+                            <li data-id="0" data-val="" data-disabled="false" class="selectboxit-option  selectboxit-option-first selectboxit-selected" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>Infant</a></li>
+                            <li data-id="1" data-val="1" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>1</a></li>
+                            <li data-id="2" data-val="2" data-disabled="false" class="selectboxit-option" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>2</a></li>
+                            <li data-id="3" data-val="3" data-disabled="false" class="selectboxit-option  selectboxit-option-last" role="option"><a class="selectboxit-option-anchor"><span class="selectboxit-option-icon-container"><i class="selectboxit-option-icon  selectboxit-container"></i></span>3</a></li>
+                        </ul>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row"></div>
+
+            <div class="row">
+                <div class="first-col col rating">
+                    <p class="param">
+                        Úroveň hotelu
+
+                    </p>
+                    <div class="rating-row">
+                        <label>
+              Od            
+            </label>
+                        <div class="stars-wrap">
+                            <div class="star-pol star-pol1">
+                                <a title=""></a>
+                            </div>
+                            <div class="star-pol star-pol2">
+                                <a title=""></a>
+                            </div>
+                            <div class="star-pol star-pol3">
+                                <a title=""></a>
+                            </div>
+                            <div class="star-pol star-pol4">
+                                <a title=""></a>
+                            </div>
+                            <div class="star-pol star-pol5">
+                                <a title=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="rating-row">
+                        <label>
+             Do             
+            </label>
+                        <div class="stars-wrap">
+                            <div class="star-pol star-pol1">
+                                <a title=""></a>
+                            </div>
+                            <div class="star-pol star-pol2">
+                                <a title=""></a>
+                            </div>
+                            <div class="star-pol star-pol3">
+                                <a title=""></a>
+                            </div>
+                            <div class="star-pol star-pol4">
+                                <a title=""></a>
+                            </div>
+                            <div class="star-pol star-pol5">
+                                <a title=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="facility-category-id">
+                        <div class="search-form-control-ctrl10"><input name="ctl54$ctl00" type="hidden"></div>
+                    </div>
+                </div>
+
+                <div class="col board-option">
+                    <p class="param">
+                        Strava
+                    </p>
+                    <div class="search-form-control-ctrl11">
+                        <ul id="ctl58">
+                            <li>
+                                <div class="icheckbox_minimal" style="position: relative;"><input id="ctl58_0" name="ctl58$0" value="406" style="position: absolute; opacity: 0;" type="checkbox"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 0px none; opacity: 0;"></ins></div><label for="ctl58_0" class="">All inclusive</label></li>
+                            <li>
+                                <div class="icheckbox_minimal" style="position: relative;"><input id="ctl58_1" name="ctl58$1" value="1107" style="position: absolute; opacity: 0;" type="checkbox"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 0px none; opacity: 0;"></ins></div><label for="ctl58_1">Bez stravy</label></li>
+                            <li>
+                                <div class="icheckbox_minimal" style="position: relative;"><input id="ctl58_2" name="ctl58$2" value="1110" style="position: absolute; opacity: 0;" type="checkbox"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 0px none; opacity: 0;"></ins></div><label for="ctl58_2">light All Inclusive</label></li>
+                            <li>
+                                <div class="icheckbox_minimal" style="position: relative;"><input id="ctl58_3" name="ctl58$3" value="405" style="position: absolute; opacity: 0;" type="checkbox"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 0px none; opacity: 0;"></ins></div><label for="ctl58_3">Plná penze</label></li>
+                            <li>
+                                <div class="icheckbox_minimal" style="position: relative;"><input id="ctl58_4" name="ctl58$4" value="404" style="position: absolute; opacity: 0;" type="checkbox"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 0px none; opacity: 0;"></ins></div><label for="ctl58_4">Polopenze</label></li>
+                            <li>
+                                <div class="icheckbox_minimal" style="position: relative;"><input id="ctl58_5" name="ctl58$5" value="403" style="position: absolute; opacity: 0;" type="checkbox"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 0px none; opacity: 0;"></ins></div><label for="ctl58_5">Snídaně</label></li>
+                            <li>
+                                <div class="icheckbox_minimal" style="position: relative;"><input id="ctl58_6" name="ctl58$6" value="544" style="position: absolute; opacity: 0;" type="checkbox"><ins class="iCheck-helper" style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 0px none; opacity: 0;"></ins></div><label for="ctl58_6">Vlastní stravování</label></li>
+
+                        </ul>
+                    </div>
+                </div>
+
+
+
+                <input id="price-from-val" value="8750" type="hidden">
+
+
+
+                <input id="price-to-val" value="70890" type="hidden">
+
+
+                <div class="col">
+                    <p class="param">
+                        Cenové rozpětí
+
+                    </p>
+
+
+                    <p class="range">
+                        <span id="visible_price-from">8750 </span>
+                        <span id="visible_price-to" class="fright">70890 </span>
+                    </p>
+
+
+                    <div id="slider-range" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all">
+                        <div class="ui-slider-range ui-widget-header ui-corner-all" style="left: 0%; width: 100%;"></div><span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0" style="left: 0%;"></span><span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0" style="left: 100%;"></span></div>
+                </div>
+
+
+                <span class="sf-minPrice magicWrapper" data-id="price_from" data-elements="input"><div class="search-form-control-ctrl12"><input name="ctl61$ctl00" id="price_from" type="hidden"></div></span>
+                <span class="sf-maxPrice magicWrapper" data-id="price_to" data-elements="input"><div class="search-form-control-ctrl13"><input name="ctl63$ctl00" id="price_to" type="hidden"></div></span>
+            </div>
+            <div class="row btn-row">
+                <span class="magicWrapper" data-class="btn" data-elements="input[type='submit']">
+          <input name="ctl64" value="Hledat" onclick='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl64", "", true, "", "", false, false))' class="search-form-control-btn0 btn" type="submit">
+        </span>
+            </div>
+
+            <div class="clearfix"></div>
+            </div>
+            <div class="clearfix"></div>
+            </div>
+            </div>
+
+            <!---- End of Search Field --->
