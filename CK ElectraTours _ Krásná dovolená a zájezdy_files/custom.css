@@ -493,10 +493,10 @@
     box-shadow: 0 1px rgba(0, 0, 0, 0.1)
 }
 
-/* .claims__claim {
+.claims__claim {
     color: #D00041;
     float: left;
-    width: 33%;
+    
     padding: 10px 10px 10px 100px;
     box-sizing: border-box;
     position: relative
@@ -519,7 +519,7 @@
     left: 5%;
     top: 10%
 }
-*/
+
 .lang--cz .range #visible_price-from,
 .lang--cz .range #visible_price-to,
 .lang--en .range #visible_price-from,
