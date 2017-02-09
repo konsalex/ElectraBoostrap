@@ -964,11 +964,30 @@ main:before,
 }
 
 .rating-row {
-    width: 100%;
+    width: auto;
     overflow: hidden;
+    text-align: center!important;
 }
 
-.rating-row label,
+@media only screen and (max-width: 480px){
+    #OD{
+        padding-left:26%;
+        text-align: center;
+       
+    }
+    #Do{
+        padding-left:26%;
+    }
+    #OD2{
+        margin-right:5%;
+        position:relative;
+    }
+    #Do2{
+        
+    }
+}
+
+.rating-row p,
 .rating-row #rating_from,
 .rating-row #rating_to {
     float: left;
