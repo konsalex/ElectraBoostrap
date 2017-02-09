@@ -3423,3 +3423,31 @@ padding: 5px;
     background: #fff;
     border-color: #b4c7d4;
 }
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+	[class*="col-"] {
+		padding-bottom:15px;
+		text-align:center;
+	}
+
+}
+
+ 
+ /* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+	[class*="col-"] {
+		padding-bottom:15px;
+		text-align:center;
+	}
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+	[class*="col-"] {
+		padding-bottom:15px;
+		text-align:center;
+	}
+
+}

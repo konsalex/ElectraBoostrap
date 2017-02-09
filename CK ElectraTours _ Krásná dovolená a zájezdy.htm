@@ -94,8 +94,7 @@
                 padding-left: 15px!important;
                 overflow-x: visible!important;
                 -webkit-overflow-scrolling: touch!important;
-                border-top: 1px solid transparent!important;
-                -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
+                border-top: 1px solid transparent!important;z                -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
                 box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
             }
             .collapse {
@@ -554,7 +553,7 @@
         <div class="search">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-6 col-sm-6 col-md-8 col-lg-8">
+                    <div class="hidden-xs hidden-sm col-md-8 col-lg-8">
                         <p class="param"> Sezóna: </p>
                         <div class="search-form-control-ctrl0">
                             <ul id="ctl29">
@@ -571,7 +570,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4 hotel"> <span class="magicWrapper u-p0 u-mr5 u-mt17" data-class="hotel" data-elements="input[type='text']">
+                    <div class="hidden-xs hidden-sm col-md-4 col-lg-4 hotel"> <span class="magicWrapper u-p0 u-mr5 u-mt17" data-class="hotel" data-elements="input[type='text']">
             <span class="removeNBSP u-p0">
               <div class="search-form-control-ctrl1"><input name="ctl31$ctl00" placeholder="Hotel" class="hotel" type="text"></div>
               
@@ -581,7 +580,7 @@
                 <div class="row">
                     <div class="search-form-control-ctrl2">
                         <input name="ctl34" class="search-form-control-selectedfield " value="108" type="hidden">
-                        <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4 icon country">
+                        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 icon country">
                             <div class="search-form-control-treeselect0">
                                 <select style="display: none;">
                                     <option value="">Země</option>
@@ -596,7 +595,7 @@
                                 </span>
                             </div>
                         </div>
-                        <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4 icon place_to">
+                        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 icon place_to">
                             <div class="search-form-control-treeselect1">
                                 <select style="display: none;">
                                     <option value="">Destinace</option>
@@ -626,7 +625,7 @@
                             });
                         });
                     </script>
-                    <div class="magicWrapper sf-winter-disabled col-xs-6 col-sm-6 col-md-4 col-lg-4 icon place_from">
+                    <div class="magicWrapper sf-winter-disabled hidden-xs hidden-sm col-md-4 col-lg-4 icon place_from">
                         <div class="search-form-control-ctrl3">
                             <select name="ctl37" style="display: none;">
                                 <option value="">Odlet z</option>
@@ -643,19 +642,19 @@
                     </span>
                 </div>
                 <div class="row">
-                    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4 col date"> <span class="magicWrapper" data-class="datepicker date_from" data-elements="input[type='text']">
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col date"> <span class="magicWrapper" data-class="datepicker date_from" data-elements="input[type='text']">
             <span class="removeNBSP">
               <div class="search-form-control-ctrl4"><input name="ctl39$DateBox" value="Od:" maxlength="10" id="ctl39_DateBox" onkeypress="MagicWareDateTimeTextBox_KeyPress(true,false,false,event);" style="text-align:right;" class="datepicker date_from hasDatepicker" type="text"><span id="ctl39_ctl01" class="validator" style="display:none;">Zadejte platné datum.</span></div>
                     </span>
                     </span>
                 </div>
-                <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4 col date"> <span class="magicWrapper" data-class="datepicker date_to" data-elements="input[type='text']">
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col date"> <span class="magicWrapper" data-class="datepicker date_to" data-elements="input[type='text']">
             <span class="removeNBSP">
               <div class="search-form-control-ctrl5"><input name="ctl41$DateBox" value="Do:" maxlength="10" id="ctl41_DateBox" onkeypress="MagicWareDateTimeTextBox_KeyPress(true,false,false,event);" style="text-align:right;" class="datepicker date_to hasDatepicker" type="text"><span id="ctl41_ctl01" class="validator" style="display:none;">Zadejte platné datum.</span></div>
                 </span>
                 </span>
             </div>
-            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4 col icon nights">
+            <div class="hidden-xs hidden-sm col-md-4 col-lg-4 col icon nights">
                 <div class="search-form-control-ctrl6">
                     <select name="ctl43" style="display: none;">
                         <option value="">Nocí</option>
@@ -692,7 +691,7 @@
             </div>
         </div>
         <div class="row people">
-            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4 col icon nights first-col col icon adult">
+            <div class="hidden-xs hidden-sm col-md-4 col-lg-4 col icon nights first-col col icon adult">
                 <div class="search-form-control-ctrl7">
                     <select name="ctl45" style="display: none;">
                         <option value="">Dospělých</option>
@@ -711,7 +710,7 @@
                     </span>
                 </div>
             </div>
-            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4 col icon nights col icon children">
+            <div class="hidden-xs hidden-sm col-md-4 col-lg-4 col icon nights col icon children">
                 <div class="search-form-control-ctrl8">
                     <select name="ctl47" style="display: none;">
                         <option value="">Dětí</option>
@@ -728,7 +727,7 @@
                     </span>
                 </div>
             </div>
-            <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4 col icon nights col icon infant">
+            <div class="hidden-xs hidden-sm col-md-4 col-lg-4 col icon nights col icon infant">
                 <div class="search-form-control-ctrl9">
                     <select name="ctl49" style="display: none;">
                         <option value="">Infant</option>
@@ -748,7 +747,7 @@
         </div>
         <div class="row"></div>
         <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 first-col col rating">
+            <div class="hidden-xs hidden-sm col-md-4 col-lg-4 first-col col rating">
                 <p class="param"> Úroveň hotelu </p>
                 <div class="rating-row">
                     <label> Od </label>
@@ -795,7 +794,7 @@
                         <input name="ctl54$ctl00" type="hidden"> </div>
                 </div>
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col board-option">
+            <div class="hidden-xs hidden-sm col-md-4 col-lg-4 col board-option">
                 <p class="param"> Strava </p>
                 <div class="search-form-control-ctrl11">
                     <ul id="ctl58">
@@ -846,7 +845,7 @@
                     <div class="ui-slider-range ui-widget-header ui-corner-all" style="left: 0%; width: 100%;"></div><span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0" style="left: 0%;"></span><span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0" style="left: 100%;"></span></div>
             </div> <span class="sf-minPrice magicWrapper" data-id="price_from" data-elements="input"><div class="search-form-control-ctrl12"><input name="ctl61$ctl00" id="price_from" type="hidden"></div></span> <span class="sf-maxPrice magicWrapper" data-id="price_to" data-elements="input"><div class="search-form-control-ctrl13"><input name="ctl63$ctl00" id="price_to" type="hidden"></div></span> </div>
         <div class="row btn-row">
-            <div class="col" style="text-align:center;"> <span class="magicWrapper" data-class="btn" data-elements="input[type='submit']">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col" style="text-align:center;"> <span class="magicWrapper" data-class="btn" data-elements="input[type='submit']">
           <input name="ctl64" value="Hledat" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl64&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" class="search-form-control-btn0 btn" type="submit">
         </span> </div>
         </div>
