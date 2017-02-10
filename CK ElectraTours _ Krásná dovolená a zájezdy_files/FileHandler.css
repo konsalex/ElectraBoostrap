@@ -305,7 +305,7 @@ input[type="button"] {
     vertical-align: top;
 }
 
- ul.nav,
+/* ul.nav,
 ul.sub-nav,
 ul.social {
     margin: 0;
