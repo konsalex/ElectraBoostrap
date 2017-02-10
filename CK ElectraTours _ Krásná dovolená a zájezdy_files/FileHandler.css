@@ -50,7 +50,7 @@ a:hover {
     text-decoration: none;
 }
 
-/**form,
+form,
  input {
     margin: 0;
     padding: 0;
@@ -67,7 +67,7 @@ input::-moz-focus-inner {
 input,
 textarea {
     outline: none;
-} */
+} 
 
 article,
 aside,
@@ -178,7 +178,7 @@ h5 a {
     width: 1000px;
     margin: 0 auto;
 }
-/**
+
 input[type="text"],
 input[type="password"],
 input[type="email"],
@@ -305,7 +305,7 @@ input[type="button"] {
     vertical-align: top;
 }
 
-/* ul.nav,
+ ul.nav,
 ul.sub-nav,
 ul.social {
     margin: 0;
