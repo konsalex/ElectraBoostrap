@@ -559,37 +559,135 @@
                 </div>
             </nav>
         </header>
-   
-<div class="container">
-    <div class="row">
-		<div class="col-lg-12">
-            <div class="panel with-nav-tabs panel-success">
-                <div class="panel-heading">
-                        <ul class="nav nav-tabs">
-                            <li class="active"><a href="#tab1success" data-toggle="tab">Popis</a></li>
-                            <li><a href="#tab2success" data-toggle="tab">Letoviska</a></li>
-                            <li><a href="#tab3success" data-toggle="tab">Mapa</a></li>
-							<li><a href="#tab4success" data-toggle="tab">Počasí</a></li>
-                            <li><a href="#tab5success" data-toggle="tab">Co vidět</a></li>
-							<li><a href="#tab6success" data-toggle="tab">Co dělat</a></li>
-                            
-                        </ul>
-                </div>
-                <div class="panel-body">
-                    <div class="tab-content">
-                        <div class="tab-pane fade in active" id="tab1success">Success 1</div>
-                        <div class="tab-pane fade" id="tab2success">Success 2</div>
-                        <div class="tab-pane fade" id="tab3success">Success 3</div>
-                        <div class="tab-pane fade" id="tab4success">Success 4</div>
-                        <div class="tab-pane fade" id="tab5success">Success 5</div>
-						<div class="tab-pane fade" id="tab6success">Success 6</div>
+        <div class="content"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12">
+                    <div class="hotel-top">
+                        <div class="reviews-block"> </div>
+                        <div class="hotel-ttl-block">
+                            <h1>
+          Acropolis Apartments
+        </h1> <span class="rating-block stars-3">&nbsp;</span> </div>
+                        <div class="breadcrumbs"> <a href="http://www.electratours.cz/country/recko">Řecko</a> / <a href="http://www.electratours.cz/destination/kreta-2">Kreta</a> / <a href="http://www.electratours.cz/destination/kreta-2/hersonissos">Hersonissos</a> / <span>Acropolis Apartments</span> </div>
                     </div>
+                </div>
+                <div class="col-xs-12 col-sm-12">
+                    <div style="margin-bottom:50px" id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#myCarousel" data-slide-to="3"></li>
+                        </ol>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner" role="listbox">
+                            <div class="item slides active"> <img class="img-responsive center-block" src="http://www.electratours.cz/FileHandler.ashx?FileID=16998&FormatID=24&TimeStamp=20160401105144" alt="Chania"> </div>
+                            <div class="item slides"> <img class="img-responsive center-block" src="http://www.electratours.cz/FileHandler.ashx?FileID=16999&FormatID=24&TimeStamp=20160401105146" alt="Chania"> </div>
+                            <div class="item slides"> <img class="img-responsive center-block" src="http://www.electratours.cz/FileHandler.ashx?FileID=17000&FormatID=24&TimeStamp=20160401105146" alt="Flower"> </div>
+                            <div class="item slides"> <img class="img-responsive center-block" src="http://www.electratours.cz/FileHandler.ashx?FileID=17001&FormatID=24&TimeStamp=20160401105146" alt="Flower"> </div>
+                        </div>
+                        <!-- Left and right controls -->
+                        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a>
+                        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-lg-12">
+                        <div class="panel with-nav-tabs panel-success">
+                            <div class="panel-heading">
+                                <ul class="nav nav-tabs">
+                                    <li class="active"><a href="#tab1success" data-toggle="tab">Ceník</a></li>
+                                    <li><a href="#tab2success" data-toggle="tab">Popis</a></li>
+                                    <li><a href="#tab3success" data-toggle="tab">Vybaveni</a></li>
+                                    <li><a href="#tab4success" data-toggle="tab">Mapa</a></li>
+                                    <li><a href="#tab5success" data-toggle="tab">TripAdvisor</a></li>
+                                    <li><a href="#tab6success" data-toggle="tab">PDF</a></li>
+                                </ul>
+                            </div>
+                            <div class="panel-body">
+                                <div class="tab-content">
+                                    <div class="tab-pane fade in active" id="tab1success">
+                                        <div class="dropdown">
+                                            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Svolit Stravu <span class="caret"></span></button>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="#">Bez stravy</a></li>
+                                                <li><a href="#">Polopenze</a></li>
+                                                <li><a href="#">Snidane</a></li>
+                                                <li><a href="#">Vlastní stravování</a></li>
+                                            </ul>
+                                        </div>
+                                        </br>
+                                        <table class="table">
+                                            <thead>
+                                                <tr>
+                                                    <th>Místo odjezdu/odletu</th>
+                                                    <th>Datum</th>
+                                                    <th>Strava</th>
+                                                    <th>Typ pokoje</th>
+                                                    <th>Prodejní cena</th>
+                                                    <th>Aktuální sleva</th>
+                                                    <th></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>Praha, Václav Havel</td>
+                                                    <td>21.05. - 28.05.2017</td>
+                                                    <td>Vlastní stravování</td>
+                                                    <td>Dvoulůžkový pokoj Změnit typ pokoje</td>
+                                                    <td class="terms-table__selling-price-cell warning">8 990 Kč</td>
+                                                    <td class="terms-table__price-flag">FM</td>
+                                                    <td>
+                                                        <button type="button" class="btn btn-success">Rezervovat</button>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Praha, Václav Havel</td>
+                                                    <td>21.05. - 28.05.2017</td>
+                                                    <td>Vlastní stravování</td>
+                                                    <td>Dvoulůžkový pokoj Změnit typ pokoje</td>
+                                                    <td class="terms-table__selling-price-cell warning">10 990 Kč</td>
+                                                    <td class="terms-table__price-flag">FM</td>
+                                                    <td>
+                                                        <button type="button" class="btn btn-success">Rezervovat</button>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <div class="tab-pane fade" id="tab2success">
+                                        <h3 class="nazev">Vybavení hotelu</h3>
+                                        <div class="txt">K vybavení patří hotelový sejf. Prostřednictvím WiFi sítě se mohou hosté připojit k internetu a zůstat tak v kontaktu se světem. Objekt nabízí řadu služeb a zařízení, které zpříjemňují pobyt, například restauraci, kavárnu a bar. Věci denní potřeby si mohou hosté koupit v supermarketu. Dále je zde TV místnost. Hosté mohou využít parkovište objektu. K dispozici je lékařská služba a budicí služba.</div>
+                                        <h3 class="nazev">Vybavení pokoje</h3>
+                                        <div class="txt">Všechny ubytovací jednotky mají klimatizaci, kuchyň a koupelnu. Vetšina pokoju má balkón nebo terasu. V ubytovacích jednotkách se nachází oddělené ložnice nebo dvoulůžková postel. K dispozici je také sejf. Kuchyňský kout je vybaven ledničkou. Celkové vybavení doplňuje ješte telefon a televize. V koupelnách je sprchový kout a vana.</div>
+                                        <h3 class="nazev">Stravování</h3>
+                                        <div class="txt">V objektu jsou k dispozici tyto možnosti stravování: snídaně, večere a polopenze.</div>
+                                        <h3 class="nazev">Sport &amp; Fitness</h3>
+                                        <div class="txt">Hosté si mohou zaplavat v bazénu. K nabídce volnočasových aktivit objektu patří golf, kulečník a šipky.</div>
+                                    </div>
+                                    <div class="tab-pane fade" id="tab3success">
+                                        <h2>
+          Vybavení hotelu
+        </h2>
+                                        <ul class="equipment-icons">
+                                            <li><span class="icon"></span><span>Wi-Fi</span></li>
+                                            <li><span class="icon"></span><span>Bazén</span></li>
+                                            <li><span class="icon"></span><span>TV</span></li>
+                                        </ul>
+                                    </div>
+                                    <div class="tab-pane fade" id="tab4success">Success 4</div>
+                                    <div class="tab-pane fade" id="tab5success">Success 5</div>
+                                    <div class="tab-pane fade" id="tab6success">Success 6</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </br>
                 </div>
             </div>
         </div>
-        
-	</div>
-</div>
         <!-- Footer ---------------------------->
         <div style="margin-top:25px" class="footy">
             <div class="footy" id="footy">
@@ -612,10 +710,10 @@
                             <p style=";position:relative;">Spojte se s námi, účastněte se soutěží </br> nebo jen načerpejte inspiraci pro vaši dovolenou.</p>
                             <ul class="social2">
                                 <li>
-                                    <a href="#"> <i class=" fa fa-facebook">   </i> </a>
+                                    <a href="#"> <i class=" fa fa-facebook">   </i> </a>
                                 </li>
                                 <li>
-                                    <a href="#"> <i class="fa fa-twitter">   </i> </a>
+                                    <a href="#"> <i class="fa fa-twitter">   </i> </a>
                                 </li>
                             </ul>
                         </div>

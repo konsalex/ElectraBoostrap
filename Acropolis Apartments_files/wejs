@@ -1,0 +1,1 @@
+document.write( '<script src="https://www.tripadvisor.cz/WidgetEmbed-rated?lang=cs&locationId=624420&display_version=2&uniq=911"></script>' );

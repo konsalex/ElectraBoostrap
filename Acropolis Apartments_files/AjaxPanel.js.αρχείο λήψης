@@ -1,0 +1,290 @@
+/// <reference path="jquery.min.js" />
+
+//----- VEREJNE ROZHRANI ------
+function ReloadAjaxPanel(reloadParams, targetUrl, customQueryString) {
+
+    if (typeof (reloadParams) === 'string') {
+        var panelName = reloadParams;
+        reloadParams = new Object();
+        reloadParams.PanelName = panelName;
+    }
+
+    if (!reloadParams.PanelName)
+        throw 'PanelName is undefined';
+
+    if (!reloadParams.CustomParams)
+        reloadParams.CustomParams = [];
+
+    var $panel = $('.ajax-panel-' + reloadParams.PanelName);
+
+    if ($panel.length == 0)
+        throw "AjaxPanel with name '" + reloadParams.PanelName + "' does not exists!";
+
+    if (targetUrl)
+        reloadParams.TargetUrl = targetUrl;
+    if (customQueryString != null && customQueryString != undefined)
+        reloadParams.CustomQueryString = customQueryString;
+
+    var ajaxPanel = $panel.data('ajax-panel-instance');
+    if (!ajaxPanel) {
+        ajaxPanel = new MagicWare.AjaxPanel($panel, reloadParams.PanelName);
+        $panel.data('ajax-panel-instance', ajaxPanel);
+    }
+    ajaxPanel.Reload(reloadParams);
+}
+//-----------------------------
+
+var MagicWare = MagicWare || {};
+
+MagicWare.AjaxPanel = function ($panel, panelName) {
+    ///<field name="$panel" type="$" />
+    ///<field name="PanelName" type="string" />
+    ///<field name="OnLoaded" type="function" />
+    ///<field name="OnPreLoad" type="function" />
+    this.$panel = $panel;
+    this.PanelName = panelName;
+    this.LastRequestOrder = 0;
+    this.OnLoaded = this.ParseDataAttrFunction("OnLoaded");
+    this.OnPreLoad = this.ParseDataAttrFunction("OnPreLoad");
+}
+MagicWare.AjaxPanel.prototype = {
+    $panel: null,
+    conf: null,
+    ParseDataAttrFunction: function (attrName) {
+        var func = this.$panel.attr('data-' + attrName.toLowerCase());
+        try {
+            if (func)
+                func = new Function("return " + func)();
+        }
+        catch (err) {
+            alert("AjaxPanel '" + this.PanelName + "' has invalid javascript in " + attrName + " parameter: " + err);
+        }
+        if (typeof (func) !== 'function')
+            func = null;
+        return func;
+    },
+    Reload: function (reloadParams) {
+        var targetUrl = this.GetTargetUrl(reloadParams.TargetUrl, reloadParams.CustomQueryString);
+
+        var transferParameters = reloadParams.TransferParameters;
+        if (transferParameters != true && transferParameters != false)
+            transferParameters = this.$panel.attr('data-transfer-parameters') == 'true';
+
+        this.Load(targetUrl, transferParameters, reloadParams.CustomParams, reloadParams.OnLoaded);
+    },
+    ReloadFromInsideLink: function () {
+        targetUrl = this.$panel.attr('data-target-url');
+        this.Load(targetUrl, this.$panel.attr('data-transfer-parameters') == 'true', []);
+    },
+    GetTargetUrl: function (targetUrl, queryString) {
+        if (targetUrl == null || typeof (targetUrl) === 'undefined')
+            targetUrl = this.$panel.attr('data-target-url');
+
+        if (queryString == null || typeof (queryString) === 'undefined')
+            queryString = this.GetHashQueryString();
+
+        if (queryString != null) {
+            var newTarget = this.SplitUrl(targetUrl);
+            newTarget.QueryString = queryString;
+            targetUrl = newTarget.Url + "/?" + newTarget.QueryString;
+        }
+        return targetUrl;
+    },
+    Load: function (targetUrl, setHash, customParams, customOnLoaded) {
+        this.$panel.attr('data-target-url', targetUrl);
+        this.$panel.addClass('loading').removeClass('loaded');
+
+        targetUrl = this.AppendSourcePageID(targetUrl);
+
+        for (var i = 0; i < customParams.length; i++) {
+            targetUrl = this.AddQueryParam(targetUrl, customParams[i].Name, customParams[i].Value);
+        }
+
+        if (this.OnPreLoad != null) {
+            this.OnPreLoad(this.$panel);
+        }
+
+        this.LastRequestOrder = this.LastRequestOrder + 1;
+
+        targetUrl = targetUrl.replace("?&", "?");
+
+        if (targetUrl.indexOf("?") == targetUrl.length - 1)
+            targetUrl = targetUrl.substr(0, targetUrl.length - 1);
+
+        this.$panel.trigger("mwAjaxPanel-loading", [targetUrl]);
+
+        var requestDefinition = {
+            Order: this.LastRequestOrder,
+            StartTime: new Date(),
+            TargetUrl: targetUrl,
+            SetHash: setHash,
+            CustomOnLoaded: customOnLoaded
+        };
+
+        var self = this;
+        $.get(targetUrl, function (content, status, jqXHR) { self.OnContentLoaded(content, jqXHR, requestDefinition); }, "html");
+    },
+    AddQueryParam: function (url, paramName, value) {
+        var regex = new RegExp("([?&])" + paramName + "=[^&#]*");
+        url = url.replace(regex, "$1");
+        if (url.indexOf('?') < 0)
+            url += "?";
+        else if (url[url.length - 1] != "&")
+            url += "&";
+        url += paramName + "=" + value;
+        return url;
+    },
+    AppendSourcePageID: function (targetUrl) {
+        var sourcePageID = parseInt(this.$panel.attr('data-source-page-id'));
+        if (!isFinite(sourcePageID))
+            return targetUrl;
+        return this.AddQueryParam(targetUrl, "SourcePageID", sourcePageID);
+    },
+    GetDebugHtml: function (shortText, detailText) {
+        var sb = '';
+        sb += "<style type='text/css'>.debug-include-source-code-root-container:hover .debug-include-source-code-source-container { display: block !important; }</style>";
+        sb += "<span class='debug-include-source-code-root-container' style='color: Black; background: Yellow; font-size: 10px; font-weight: normal;'>";
+        {
+            sb += "<span class='debug-include-source-code-name-container'";
+            sb += " style='color: Black; background: Yellow; font-size: 10px; font-weight: normal; cursor: pointer;' ";
+            sb += " onclick='this.nextSibling.style.display = this.nextSibling.style.display == \"block\" ? \"none\" : \"block\";'>";
+            sb += $("<div />").text(shortText).text().replace("\n", "<br />");
+            sb += "</span>";
+            sb += "<pre class='debug-include-source-code-source-container' style='position: absolute; z-index: 1000; display:none; border: 1px solid black; color: Black; background: Yellow; font-size: 15px; font-weight: normal;'>";
+            sb += $("<div />").text(detailText).text().replace("\n", "<br />");
+            sb += "</pre>";
+        }
+        sb += "</span>";
+        return sb;
+    },
+    OnContentLoaded: function (content, jqXHR, requestDefinition) {
+        if (this.LastRequestOrder != requestDefinition.Order)
+            return;
+
+        if (location.href.toLowerCase().indexOf("debugajaxpanel=true") >= 0) {
+            var $debugPanel = $("<div class='ajax-debug-panel'></div>");
+            if (this.$panel.prev('.ajax-debug-panel').replaceWith($debugPanel).length == 0)
+                this.$panel.before($debugPanel);
+
+            var totalTime = new Date().valueOf() - requestDefinition.StartTime.valueOf();
+
+            var detailInfo = "";
+            var shortInfo = "DEBUG AP: " + totalTime + " ms";
+
+            var debugRequestStartTime = jqXHR.getResponseHeader("X-DebugRequestStartTime");
+            if (debugRequestStartTime != null) {
+                detailInfo += "StartTime: " + debugRequestStartTime + "\n";
+            }
+
+            detailInfo += "TotalTime: " + totalTime + " ms\n";
+            var debugServerTime = jqXHR.getResponseHeader("X-DebugServerTime");
+            if (debugServerTime != null) {
+                detailInfo += "ServerTime: " + debugServerTime + " ms\n";
+            }
+            else {
+                debugServerTime = jqXHR.getResponseHeader("X-DebugServerUnfinishedTime");
+                if (debugServerTime != null)
+                    detailInfo += "ServerTime: " + debugServerTime + " ms (unfinished)\n";
+            }
+
+            if (debugServerTime != null) {
+                var transferTime = (totalTime - parseInt(debugServerTime));
+                detailInfo += "TransferTime: " + transferTime + " ms\n";
+                shortInfo += " (" + debugServerTime + " + " + transferTime + ")";
+            }
+
+            detailInfo += "URL: " + requestDefinition.TargetUrl + "\n";
+
+            $debugPanel.html(this.GetDebugHtml(shortInfo, detailInfo));
+        }
+
+        var self = this;
+        var panelTarget = this.SplitUrl(requestDefinition.TargetUrl);
+        if (requestDefinition.SetHash)
+            this.SetPanelHashTag(panelTarget.QueryString);
+        this.$panel.removeClass('loading').addClass('loaded');
+        var linkList = this.$panel.html(content).find("a");
+        for (var i = 0; i < linkList.length; i++) {
+            var link = $(linkList[i]);
+            var originalHref = link.attr('href');
+            if (originalHref) {
+                var linkTarget = this.SplitUrl(originalHref);
+                if (linkTarget.Url == panelTarget.Url) {
+                    link.attr('data-target-url', originalHref)
+                        .attr('href', 'javascript:')
+                        .click(function (e) { self.OnReloadLinkClicked(e); });
+                }
+            }
+        }
+
+        if (this.OnLoaded != null) {
+            this.OnLoaded(this.$panel);
+        }
+
+        if (typeof (requestDefinition.CustomOnLoaded) == 'function')
+            requestDefinition.CustomOnLoaded(this.$panel);
+
+        this.$panel.trigger("mwAjaxPanel-loaded", [requestDefinition.TargetUrl]);
+    },
+    OnReloadLinkClicked: function (e) {
+        this.$panel.attr('data-target-url', e.currentTarget.getAttribute('data-target-url'));
+        this.ReloadFromInsideLink();
+    },
+    SetPanelHashTag: function (queryString) {
+        ///<param name="queryString" type="string" />
+        var newHash = '';
+        if (queryString && queryString.length > 0) {
+            if (queryString[0] == "&" || queryString[0] == "?")
+                queryString = queryString.substr(1);
+            newHash = "#" + this.PanelName + '=' + encodeURIComponent(queryString);
+        }
+        var currentHashTagPosition = this.GetHashTagPosition();
+        if (currentHashTagPosition.Index >= 0) {
+            location.hash = location.hash.substr(0, currentHashTagPosition.Index) +
+                newHash + location.hash.substr(currentHashTagPosition.Index + currentHashTagPosition.Length);
+        }
+        else {
+            if (location.hash != null)
+                location.hash = location.hash + newHash;
+            else
+                location.hash = newHash;
+        }
+    },
+    GetHashTagPosition: function () {
+        var result = {
+            Index: -1,
+            Length: 0
+        };
+        result.Index = location.hash.indexOf('#' + this.PanelName + '=');
+        if (result.Index >= 0) {
+            result.Length = (location.hash + "#").indexOf('#', result.Index + 1) - result.Index;
+        }
+        return result;
+    },
+    GetHashQueryString: function () {
+        var hash = this.GetHashTagPosition();
+        if (hash.Index >= 0) {
+            var hashTag = location.hash.substr(hash.Index, hash.Length);
+            var encodedQueryString = hashTag.substr(this.PanelName.length + 2);
+            return decodeURIComponent(encodedQueryString);
+        }
+        else {
+            return null;
+        }
+    },
+    SplitUrl: function (url) {
+        var result = {
+            Url: url,
+            QueryString: null
+        }
+        var queryStringIdx = url.indexOf('?');
+        if (queryStringIdx >= 0) {
+            result.Url = url.substr(0, queryStringIdx);
+            result.QueryString = url.substr(queryStringIdx + 1);
+        }
+        if (result.Url.charAt(result.Url.length - 1) == '/')
+            result.Url = result.Url.substr(0, result.Url.length - 1);
+        return result;
+    }
+}
+
