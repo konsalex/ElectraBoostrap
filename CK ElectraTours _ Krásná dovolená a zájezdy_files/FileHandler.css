@@ -50,8 +50,8 @@ a:hover {
     text-decoration: none;
 }
 
-form,
-input {
+/**form,
+ input {
     margin: 0;
     padding: 0;
 }
@@ -67,7 +67,7 @@ input::-moz-focus-inner {
 input,
 textarea {
     outline: none;
-}
+} */
 
 article,
 aside,
@@ -178,7 +178,7 @@ h5 a {
     width: 1000px;
     margin: 0 auto;
 }
-
+/**
 input[type="text"],
 input[type="password"],
 input[type="email"],
@@ -317,7 +317,7 @@ ul.nav>li,
 .social li {
     float: left;
 }
-*/
+
 .row {
     width: 100%;
     float: left;
@@ -330,7 +330,6 @@ form:after,
     display: table;
     clear: both;
 }
-
 
 /*-------------------------custom_select-------------------------*/
 
