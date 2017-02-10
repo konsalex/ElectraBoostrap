@@ -1697,7 +1697,8 @@ footer {
     font-family: 'Open Sans', Arial, Verdana, sans-serif;
     font-weight: 300;
     overflow: hidden;
-    background: #cce2f0 url(Public/ElectraTours/img/search-param-bg.png) no-repeat 50% 0;
+    background: #cce2f0 no-repeat 50% 0;
+    background-image: url(search-param-bg.png);
     border-bottom: 1px solid #a5bbc9;
 }
 
