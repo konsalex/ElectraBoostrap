@@ -548,6 +548,20 @@
 #ph{
     display: none;
     }}
+@media (max-width: 1200px){
+#phfirst{
+    display: none;
+    width: auto;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background-color:#A3C2F0;
+    -webkit-box-shadow: #B3B3B3 7px 7px 7px;
+    -moz-box-shadow: #B3B3B3 7px 7px 7px;
+    box-shadow: #B3B3B3 7px 7px 7px;
+    margin-bottom: 30px;
+    
+    }}
 
 .full {
     width: 100%;	
@@ -699,4 +713,45 @@
 .payments {
 	font-size: 1.5em;	
 }
+
+@media (max-width: 968px) {
+.list-center {
+    width: 100%;
+    position: relative;
+    z-index: 50
+}
+    .list-center .content-in {
+    width: 95%;
+        padding-left: 3%;
+}
+    .item-row .inner {
+    background: white;
+    height: auto;
+        width:100%!important;
+        padding-left: 3%;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 3px 4px 10px rgba(0, 0, 0, 0.35);
+    box-shadow: 3px 4px 10px rgba(0, 0, 0, 0.35)
+}
+    .item-row .inner .item__diet-list {
+    font-size: 0.5pc;
+    font-weight: 600;
+    margin-bottom: 5px;
+        margin-right:55px;
+}
+    .item-row .inner .item__info-panel {
+    float: right;
+    width: 50%;
+        height: 100%;
+    background: #feefc2;
+    position: relative;
+    -webkit-border-radius: 0 5px 5px 0;
+    border-radius: 0 5px 5px 0;
+    padding-top: 2px;
+        margin-top: -11%;
+        
+}
+}
+
 /*# sourceMappingURL=custom.css.map */

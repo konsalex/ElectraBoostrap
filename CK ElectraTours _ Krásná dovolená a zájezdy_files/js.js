@@ -142,6 +142,10 @@ $(document).ready(function(){
     $("#filter").click(function(){
         $("#ph").toggle("slow");
     });
+    $("#filterFirstminute").click(function(){
+        $("#phfirst").toggle("slow");
+    });
     
 });
+
 
