@@ -573,7 +573,7 @@
 .set-btn-class.dnone {
     display: block
 }
-@media (max-width: 768px){
+@media (max-width: 992px){
 #ph{
     display: none;
     }}
@@ -844,4 +844,10 @@ width: 100%;
               left:30%!important;
             }
         }
+  @media only screen and (min-width: 992px)  {
+#filter{
+    display: none!important;
+    }
+  #filbutton{display: none!important;}
+}
 /*# sourceMappingURL=custom.css.map */
