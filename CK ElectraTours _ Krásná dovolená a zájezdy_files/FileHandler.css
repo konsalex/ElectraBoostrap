@@ -638,7 +638,7 @@ header .center {
 
 .nav {
     float: center;
-    
+    border-left: 1px solid #dde6ed;
     
 }
 
@@ -3442,36 +3442,6 @@ padding: 5px;
     background: #fff;
     border-color: #b4c7d4;
 }
-
-.nav-tabs
- {
-   border-color:#1A3E5E;
-   
- }
-
-.nav-tabs > li a { 
-    border: 1px solid #1A3E5E;
-    background-color:#2F71AB; 
-    color:#fff;
-    }
-
-.nav-tabs > li.active > a,
-.nav-tabs > li.active > a:focus,
-.nav-tabs > li.active > a:hover{
-    background-color:#D6E6F3;
-    color:#000;
-    border: 1px solid #1A3E5E;
-    border-bottom-color: transparent;
-    }
-
-.nav-tabs > li > a:hover{
-  background-color: #D6E6F3 !important;
-    border-radius: 5px;
-    color:#000;
-
-} 
-
-
 
 /* Portrait tablets and small desktops */
 @media (min-width: 768px) and (max-width: 991px) {
